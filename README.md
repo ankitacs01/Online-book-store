@@ -1,7 +1,5 @@
 # 📚 Online Bookstore Management System – SQL Project
 
-### 👩‍💻 Created by: Ankita Misal
-
 This project is a simple relational database system built for an *Online Bookstore* using SQL. It focuses on organizing books, customers, and orders efficiently, and performing meaningful analysis using SQL queries.
 
 ---
